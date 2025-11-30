@@ -1037,4 +1037,4 @@ const quizData = {
       "hint": "This setting determines the level of automation for processing system-generated procurement recommendations."
     }
   ]
-}
+};
