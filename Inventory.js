@@ -279,7 +279,7 @@ const quizData = {
         }
       ],
       "hint": "Consider how the system handles overrides for safety- or supply-controlled items during a bulk issue process."
-    }
+    },
     {
       "category": "Part Maintenance",
       "Level": "Standard",
