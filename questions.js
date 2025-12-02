@@ -478,7 +478,7 @@ const quizData = {
     },
     {
       "category": "Part Maintenance",
-      "Level": "Standard",
+      "Level": "Easy",
       "question": "If an IM needs to update the same field for a large number of parts listed in an offline spreadsheet, what is the recommended tool and first step?",
       "answerOptions": [
         {
@@ -1037,4 +1037,5 @@ const quizData = {
       "hint": "This setting determines the level of automation for processing system-generated procurement recommendations."
     }
   ]
+
 };
